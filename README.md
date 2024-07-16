@@ -8,8 +8,8 @@ are welcome to use the examples from this repository to get started setting up t
 
 Each of the following examples is contained in a subdirectory of this repository
 
-- [Getting information about Slurm Resources and Running Jobs](./00-slurminfo/README.md)
-- [Submitting Simple Jobs](./01-simple/README.md)
+- 00 [Getting information about Slurm Resources and Running Jobs](./00-slurminfo/README.md)
+- 01 [Submitting Simple Jobs](./01-simple/README.md)
 
 
 ## Additional Resources
