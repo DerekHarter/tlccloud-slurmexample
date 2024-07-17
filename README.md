@@ -10,6 +10,7 @@ Each of the following examples is contained in a subdirectory of this repository
 
 - [Getting information about Slurm Resources and Running Jobs](./00-slurminfo/README.md)
 - [Submitting Simple Jobs](./01-simple/README.md)
+- [Python and Conda Environments](./02-python-conda/README.md)
 
 
 ## Additional Resources

@@ -51,12 +51,13 @@ We can run the job using this script equivalently using the following:
 $ sbatch myjob.sh
 ```
 
-Not that you can use iehter short flat or long flag names after SBATCH, though it
-is recommended that you use the long names as these are more readable and obvious
-to someone else or your future self on what options you are setting in your batch
-jobs.  You will need to learn to use a simple terminal based editor to create and
-modify these files.  The TLC slurm cluster has `nano`, `vi`, and `emacs` available to use
-for editing files from the command line.
+Not that you can use either short flag or long flag names after
+SBATCH, though it is recommended that you use the long names (as shown
+here) as these are more readable and obvious to someone else or your
+future self on what options you are setting in your batch jobs.  You
+will need to learn to use a simple terminal based editor to create and
+modify these files.  The TLC slurm cluster has `nano`, `vi`, and
+`emacs` available to use for editing files from the command line.
 
 - [`nano` editor commands](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 - [`vi` editor commands](https://www.redhat.com/sysadmin/introduction-vi-editor)
