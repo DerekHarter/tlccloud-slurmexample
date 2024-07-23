@@ -102,3 +102,4 @@ $ sbatch gputest.sh
 ## Additional Resources
 
 - [Conda User Guide: Managing Environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+- [How to run python experiments with Slurm and Conda](Python and Conda Environments in Slurm Jobs)
